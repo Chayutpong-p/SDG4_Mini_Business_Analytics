@@ -1,0 +1,6 @@
+indicator_name,count,mean,std,min,25%,50%,75%,max
+Gini index,26.0,34.41538461538461,1.648864411088384,32.4,33.1,34.05,35.325,38.8
+Income share held by highest 20%,26.0,41.58846153846154,1.4688980694593954,39.7,40.5,41.35,42.4,45.5
+Income share held by lowest 20%,26.0,7.403846153846154,0.27925725663734396,6.8,7.225,7.4,7.6,7.9
+"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",26.0,76.44803846153846,1.04685381905094,75.195,75.575,76.0655,77.50725,78.368
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),26.0,0.23461538461538464,0.09774377808252632,0.2,0.2,0.2,0.2,0.5

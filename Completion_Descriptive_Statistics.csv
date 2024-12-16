@@ -1,0 +1,4 @@
+indicator_name,count,mean,std,min,25%,50%,75%,max
+"Completion rate, lower secondary education, both sexes (modelled data) (%) ",26.0,99.705000365,0.07981177767189172,99.63999939,99.642499925,99.65000153,99.77499962,99.86000061
+"Completion rate, primary education, both sexes (modelled data) (%) ",26.0,99.8173079876923,0.032564193156119935,99.79000092,99.79000092,99.795001985,99.84749793750001,99.87999725
+"Completion rate, upper secondary education, both sexes (modelled data) (%) ",26.0,88.12461559692306,0.8111534859944436,87.25,87.5349998475,87.65499878,88.7000007625,89.87000275

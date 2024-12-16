@@ -1,0 +1,9 @@
+indicator_name,count,mean,std,min,25%,50%,75%,max
+"Out-of-school rate for adolescents and youth of lower and upper secondary school age, both sexes (%)",26.0,4.039691865423077,1.7865354961646767,1.037960052,3.0670974847499997,3.700009942,5.62126243125,7.374159813
+"Out-of-school rate for adolescents of lower secondary school age, both sexes (%)",26.0,1.2323923108076924,1.0641426660054798,0.00581,0.46024000600000003,1.189485014,1.4731175005000001,5.00496006
+"Out-of-school rate for adolescents of lower secondary school age, both sexes (modelled data) (%) ",26.0,0.4230769230769231,0.503831473655779,0.0,0.0,0.0,1.0,1.0
+"Out-of-school rate for children of primary school age, both sexes (%)",26.0,0.6587600086538461,0.72937602224646,0.00871,0.050765001,0.4151249975,1.0840475265,2.362760067
+"Out-of-school rate for children of primary school age, both sexes (modelled data) (%) ",26.0,1.5384615384615385,0.9478721108153453,0.0,1.0,2.0,2.0,3.0
+"Out-of-school rate for children, adolescents and youth of primary, lower secondary and upper secondary school age, both sexes (%)",26.0,2.490634991576923,1.0324509743022916,1.200870037,1.6612725255,2.291034937,3.1536025405,4.831910133
+"Out-of-school rate for youth of upper secondary school age, both sexes (%)",26.0,6.197866934999999,2.8832452432232913,0.773400009,4.47787988175,6.133029938,8.5733151435,11.70600986
+"Out-of-school rate for youth of upper secondary school age, both sexes (modelled data) (%) ",26.0,6.6923077288461545,3.256000474957446,2.0,5.0,5.5,9.0,15.00000095
